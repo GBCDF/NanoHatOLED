@@ -14,6 +14,7 @@
 [![Release Version][7]][8]
 [![Release Count][9]][8]
 
+Forked form https://github.com/vinewx/NanoHatOLED
 OpenWrt OLED display for NanoHatOLED.
 ## Depends / 依赖
 - i2c-tools
